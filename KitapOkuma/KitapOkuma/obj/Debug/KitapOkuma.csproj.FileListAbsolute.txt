@@ -1,0 +1,34 @@
+c:\users\yusuf çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\bin\Debug\KitapOkuma.exe.config
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\bin\Debug\KitapOkuma.exe
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\bin\Debug\KitapOkuma.pdb
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.csproj.ResolveComReference.cache
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.Form1.resources
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.Properties.Resources.resources
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.csproj.GenerateResource.Cache
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.exe
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.pdb
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.Form2.resources
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.KitapOku.resources
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf Çalışkan\documents\visual studio 2015\Projects\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.KitapSil.resources
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\bin\Debug\KitapOkuma.exe.config
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.csproj.ResolveComReference.cache
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.exe
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.pdb
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.csprojResolveAssemblyReference.cache
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.Form1.resources
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.Form2.resources
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.KitapOku.resources
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.KitapSil.resources
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.Properties.Resources.resources
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\KitapOkuma.csproj.GenerateResource.Cache
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\bin\Debug\KitapOkuma.exe
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\bin\Debug\KitapOkuma.pdb
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\OMER\Desktop\dd\KitapOkuma\KitapOkuma\bin\Debug\AxInterop.AcroPDFLib.dll
